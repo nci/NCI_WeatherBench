@@ -22,7 +22,7 @@ One can apply to join NCI projects here: https://my.nci.org.au/
 1) Download the notebooks in any suitable location on Gadi 
 ```bash
 cd /to/a/Gadi/location
-git clone https://github.com/maruf-anu/NCI_WeatherBench.git
+git clone https://github.com/nci/NCI_WeatherBench
 ```
 
 2) Launch an NCI ARE (https://are.nci.org.au) Jupyter instance with the following parameters. 
